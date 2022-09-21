@@ -1,0 +1,15 @@
+
+html {
+    background: url(14710.jpg) no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    }
+    .img-line {
+     
+     padding: 15px; /* Расстояние от картинки до рамки */
+     
+     margin-right: 10px; /* Отступ справа */
+     margin-bottom: 10px; /* Отступ снизу */
+}
